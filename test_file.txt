@@ -1,0 +1,3 @@
+I = insert is writing mode 
+
+This is a test file created in gitbash
